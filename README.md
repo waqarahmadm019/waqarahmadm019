@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waqarahmadm019
 - 👀 I’m interested in Data Science and Big Data topics.
-- 🌱 I’m currently learning Deep learning and distributed computing technologies like Apache spark, hadoop.
-- 💞️ I’m looking to collaborate on distributed computing.
+- 🌱 I’m currently learning Deep learning for drug discovery using pytorch.
+- 💞️ I’m looking to collaborate on VAEs.
 - 📫 How to reach me through email waqarahmadm019@gmail.com
 
 <!---
