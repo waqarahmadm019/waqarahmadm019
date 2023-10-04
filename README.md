@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waqarahmadm019
 - 👀 I’m interested in Data Science and Big Data topics.
-- 🌱 I’m currently learning Deep learning for drug discovery using pytorch.
-- 💞️ I’m looking to collaborate on VAEs.
+- 🌱 I’m working computational drug discovery using pytorch and pytorch geometric.
+- 💞️ Working on pyspark, structured streaming, kafka and dockers.
 - 📫 How to reach me through email waqarahmadm019@gmail.com
 
 <!---
