@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Big Data topics.
 - 🌱 I’m working computational drug discovery using pytorch and pytorch geometric.
 - 💞️ Working on pyspark structured streaming, spark machine learning, kafka and dockers.
-- 📫 How to reach me through email waqarahmadm019@gmail.com
+- 📫 Reach me through email waqarahmadm019@gmail.com
 
 <!---
 waqarahmadm019/waqarahmadm019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
