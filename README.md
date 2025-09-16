@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @waqarahmadm019
+- Ph-D in Information Engineering specialized in Cheminformatics and Computational Drug Discovery.
 - 👀 I’m interested in Data Science and Big Data topics.
 - 🌱 I’m working computational drug discovery using pytorch and pytorch geometric.
 - 💞️ Working on pyspark structured streaming, spark machine learning, kafka and dockers.
